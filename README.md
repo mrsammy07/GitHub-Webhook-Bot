@@ -36,8 +36,6 @@ g++ src/main.cpp -lpthread -lboost_system -lz -o git.out
 
 ```
 
-## Easy 👌
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Credits: 🌎
 * [GautamKumar(me)](https://github.com/gautamajay52) for [Nothing](https://github.com/gautamajay52/GitHub-Webhook-Bot)😬
